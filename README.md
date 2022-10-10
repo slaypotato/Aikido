@@ -49,4 +49,16 @@ Como usar esse livro
 * Shomen-Tsuki (Soco Frontal)
 * Fazendo um Bloqueio Fluido para Shomen-Tsuki
 * Desbalanciando seu parceiro do Katate-Mochi (Segurar com uma mão)
-* 
+  (Quando você está sendo puxadoq)
+  (Quando empurrado 2)
+* Desbalanciando seu parceiro do Kata-Mochi (Segurando no ombro)
+* Movimentos Preparatórios para Ataques vindo das Costas
+* Desbalanciando seu parceiro do Ushiro Ryote-Mochi (Segurando pelas costa com as 2 mãos enquanto sendo puxado)
+  (enquanto sendo empurrado)
+* Desbalanciando seu parceiro do Ushiro Ryokata-Mochi (Segurando ambos ombros por trás)
+* Desbalanciando seu parceiro do Ushiro Ryohiji-Mochi (Segurando ambos cotovelos por trás)
+
+## Seção 3 - Kihon Waza (Técnicas Básicas)
+
+* O que aprendemos do treinamento das técnicas básicas
+* Arremesso de 4 direções
