@@ -28,7 +28,7 @@ Como usar esse livro
 * Systema de Treino
 * Explicação da Terminologia especial
 
-### Seção 2 - Tai Sabaki no Kihon
+### Seção 2 - Tai Sabaki no Kihon (Básico dos Movimentos Corporais)
 
 * Kamae (Instancia Básica)
 * Hiriki no Yosei Ichi (Poder do Cotovelo 1)
@@ -62,3 +62,15 @@ Como usar esse livro
 
 * O que aprendemos do treinamento das técnicas básicas
 * Arremesso de 4 direções
+* Arremesso com uma mão - Arremesso de 4 direções I
+* Arremesso com uma mão - Arremesso de 4 direções II
+* Ataque Lateral contra a cabeça - Arremesso de 4 direções I
+* Um em pé, um sentando, segurando com 2 mãos - Arremesso de 4 direções 
+* Ataque Frontal - Extensão do Arremesso de 4 direções 
+* Primeiro Controle
+* Golpe Frontal - Primeiro Controle I
+* Golpe Frontal - Primeiro Controle II
+* Técnica Ajoelhado - Segurando com uma mão - Primeiro Controle I
+* Segurando Ombro - Primeiro Controle II
+* Segurando com as 2 mãos por trás - Primeiro Controle I
+* Segurando Pulso e 
